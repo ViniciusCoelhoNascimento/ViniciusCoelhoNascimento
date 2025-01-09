@@ -9,4 +9,3 @@ Graduated in Electrical Engineering, and I am currently pursuing my degree in Sy
 *   🌍  I'm based in Tubarão - Brazil
 *   🟦  LinkedIn: https://www.linkedin.com/in/viniciusnascimentodesenvolvedor/
 *   ✉️  You can contact me at viconasci_97@hotmail.com
-*   🧠  I'm learning Java, Spring Framework
